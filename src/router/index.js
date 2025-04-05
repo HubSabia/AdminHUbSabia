@@ -3,6 +3,7 @@ import IaView from '@/components/ChatBot.vue';
 import SobreView from '@/components/SobreBot.vue';
 import LoginHistoryView from '@/components/LoginHistory.vue';
 import Home from '@/components/HomePage.vue';
+import Campanhas from '@/components/Campanhas.vue';
 
 const router = createRouter({
   history: createWebHistory('/'), // Define BASE_URL para a raiz do site
@@ -23,14 +24,20 @@ const router = createRouter({
       component: LoginHistoryView
     },
     {
-      path: '/ia',
-      name: 'ia',
+      path: '/',
+      name: '',
       component: IaView
     },
     {
       path: '/sobre',
       name: 'sobre',
       component: SobreView
+    },
+
+    {
+      path: '/Campanhas',
+      name: 'Campanhas', 
+      component: Campanhas
     }
   ]
 });
