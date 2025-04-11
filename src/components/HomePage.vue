@@ -12,24 +12,8 @@
             </div>
           </div>
        </router-link>
-          
-
-      <router-link to="/" class="feature-link">
-        <div class="feature-box">
-            <h2>Gestão de Chatbots:</h2>
-            <div class="box-visual">
-              <samp class="plus-sign">+</samp>
-            </div>
-          </div>
-      </router-link> 
-          
-      
-
       </div>
-
-
     </div>
-
 
   </template>
   
