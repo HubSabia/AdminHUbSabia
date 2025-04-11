@@ -1,9 +1,9 @@
-O Hubsabiá está publicado:<br>
+O Hubsabiá está publicado:
 Vercel - https://admin-h-ub-sabia.vercel.app/?authuser=0
 
-<chat style="text-align:center">## ChatBot Sabiá - IFPR Campus Assis Chateaubriand 🐦</chat>
+## ChatBot Sabiá - IFPR Campus Assis Chateaubriand 🐦
 
-Este repositório contém o código fonte do ChatBot Sabiá, um chatbot amigável e informativo desenvolvido para auxiliar estudantes interessados no Processo Seletivo do IFPR Campus Assis Chateaubriand.  O Sabiá é alimentado pelo modelo de linguagem Gemini da Google e está pronto para responder às suas perguntas sobre o processo seletivo, cursos, datas importantes, e muito mais!
+Este repositório contém o código fonte do ChatBot Sabiá, um chatbot amigável e informativo desenvolvido para auxiliar estudantes interessados no Processo Seletivo do IFPR Campus Assis Chateaubriand. O Sabiá é alimentado pelo modelo de linguagem Gemini da Google e está pronto para responder às suas perguntas sobre o processo seletivo, cursos, datas importantes, e muito mais!
 
 🚀 Começando
 
@@ -19,18 +19,13 @@ Clone este repositório:
 
 git clone https://github.com/vagnersantosbsi/chatbot-sabia.git
 
-
 Navegue até o diretório do projeto:
 
-cd chatbot-sabia
-content_copy
-Use code with caution.
-Bash
+cd chatbot-sabia content_copy Use code with caution. Bash
 
 Instale as dependências:
 
-npm install
-Bash
+npm install Bash
 
 Crie um arquivo .env.local na raiz do projeto e adicione sua API Key:
 
@@ -40,8 +35,7 @@ Rodando o projeto:
 
 Inicie o servidor de desenvolvimento:
 
-npm run serve
-Bash
+npm run serve Bash
 
 Acesse o chatbot no seu navegador em: http://localhost:5173
 
